@@ -12,8 +12,7 @@
  
 - 📍 Sou de João Pessoa , Paraíba , Brasil.
 - 💘 Amante da tecnologia.
-- 📚 Sou atualmente estudante do curso de ciência da computação na UNIPÊ.
-- ▶️ Pretendo trabalhar como Front-End ,mas dou aquela arriscada no Back-End(O famoso pau para toda obra).
+- 📚 Formado no curso de ciência da computação na UNIPÊ.
 - 📧 Meu e-mail para contato é matsonjunior194@gmail.com
 
 <div align="center">
