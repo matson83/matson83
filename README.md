@@ -11,7 +11,7 @@
  </div>
  
 - 📍 Sou de João Pessoa , Paraíba , Brasil.
-- 💘 Amante da tecnologia.
+- 💘 Apaixonado por tecnologia.
 - 📚 Formado no curso de ciência da computação na UNIPÊ, e atualmente estudante de Pós graduação Full stack na UNIESP.
 - 📧 Meu e-mail para contato é matsonjunior194@gmail.com
 
